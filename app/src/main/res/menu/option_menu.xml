@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuSearch"
+        android:title="Search" />
+    <item
+        android:id="@+id/mnuNew"
+        android:title="New " />
+    <item
+        android:id="@+id/mnuHelp"
+        android:title="Help" />
+    <item
+        android:id="@+id/mnuAbout"
+        android:title="About"
+        app:showAsAction="always" />
+</menu>
